@@ -7,5 +7,6 @@ Rock-Paper-Scissors is a classic hand game played between two participants. The 
 4.	Game Loop: The program runs in a loop, allowing the user to play multiple rounds until they choose to quit.
 5.	Result Display: The game prints the AI’s choice and the result of each round.
 6.	Code Execution in Google Colab: The program is written in Python and executed in Google Colab with proper comments for clarity.
+7.	
 
 
